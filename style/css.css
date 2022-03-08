@@ -1,51 +1,42 @@
 p {
-	font: normal;
-	color: black;
+    font: normal;
+    color: black;
 }
-
-h1{
-	color: yellow;
-	font: 10px;
-	background-color: royalblue;
-	width: 50%;
-	text-align: center;
+h1 {
+    color: yellow;
+    font: 10px;
+    background-color: royalblue;
+    width: 50%;
+    text-align: center;
 }
-
 div {
     width: 300px;
     border: 25px solid royalblue;
     padding: 25px;
     margin: 25px;
 }
-
-
-#header{
-	text-align: center;
-	width: 500px;
+#header {
+    text-align: center;
+    width: 500px;
 }
-
-
-#toufu{
-	color: royalblue;
-	font: 20px;
-	background-color: yellow;
-	float: left;
+#toufu {
+    color: royalblue;
+    font: 20px;
+    background-color: yellow;
+    float: left;
 }
-
-#dimsum{
-	color: royalblue;
-	background-color: yellow;
-	font: 20px;
-	float: left;
+#dimsum {
+    color: royalblue;
+    background-color: yellow;
+    font: 20px;
+    float: left;
 }
-
-#dumplings{
-	color: royalblue;
-	background-color: yellow;
-	font: 20px;
-	float: left;
+#dumplings {
+    color: royalblue;
+    background-color: yellow;
+    font: 20px;
+    float: left;
 }
-
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -53,11 +44,9 @@ nav ul {
     overflow: hidden;
     background-color: #333;
 }
- 
 nav li {
     float: left;
 }
- 
 nav li a {
     display: block;
     color: white;
@@ -65,11 +54,9 @@ nav li a {
     padding: 14px 16px;
     text-decoration: none;
 }
-
 li a:hover:not(.active) {
     background-color: #111;
 }
-
 .active {
     background-color: #4CAF50;
 }

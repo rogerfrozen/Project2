@@ -1,7 +1,6 @@
-p{
-	color: skyblue;
+p {
+    color: skyblue;
 }
-
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -9,11 +8,9 @@ nav ul {
     overflow: hidden;
     background-color: #333;
 }
- 
 nav li {
     float: left;
 }
- 
 nav li a {
     display: block;
     color: white;
@@ -21,15 +18,12 @@ nav li a {
     padding: 14px 16px;
     text-decoration: none;
 }
-
 li a:hover:not(.active) {
     background-color: #111;
 }
-
 .active {
     background-color: #4CAF50;
 }
-
 div {
     width: 300px;
     border: 25px solid royalblue;
@@ -37,7 +31,6 @@ div {
     margin: 25px;
     float: left;
 }
-
-h1{
-	text-align: center;
+h1 {
+    text-align: center;
 }

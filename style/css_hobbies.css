@@ -5,11 +5,9 @@ nav ul {
     overflow: hidden;
     background-color: #333;
 }
- 
 nav li {
     float: left;
 }
- 
 nav li a {
     display: block;
     color: white;
@@ -17,15 +15,12 @@ nav li a {
     padding: 14px 16px;
     text-decoration: none;
 }
-
 li a:hover:not(.active) {
     background-color: #111;
 }
-
 .active {
     background-color: #4CAF50;
 }
-
 img {
     border: 1px solid #ddd;
     border-radius: 4px;
@@ -33,7 +28,6 @@ img {
     width: 300px;
     height: 300px;
 }
-
 div {
     width: 500px;
     border: 25px solid royalblue;
